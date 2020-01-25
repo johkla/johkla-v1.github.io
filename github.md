@@ -6,7 +6,11 @@ and lo...
 
 one major omission in the guide is the fact that the changes you make to your files are not necessarily immediately reflected in your site. this is serious drawback of using gihub pages but is it possible that you could get used to it?
 
+
 ----------------------
+
+but how to change the footer, for example?  
+well...
 
 https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-css
 
