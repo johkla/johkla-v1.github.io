@@ -1,39 +1,35 @@
 # about
 
-here is a new attempt at making a sensible about page.
+ok here is a new attempt at making a sensible about page.
 
 1. TOC
 {:toc}
 
-## Basic setup
+## but first ...
 
-Jekyll requires blog post files to be named according to the following format:
+just for the record, here is the test from the old about page :
 
-`YEAR-MONTH-DAY-filename.md`
+about text
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
+## and now ...
 
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
+i am seriously thinking about not saying i am a therapist anymore.
 
-## Basic formatting
+## cv
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+### qualifications 
 
----
+- phd
+- ma
+- grad cert
+- CPE certificates : basic, advanced, post-advanced.
 
-## Lists
-
-Here's a list:
-
-- item 1
-- item 2
-
-And a numbered list:
+member of ...
 
 1. item 1
 1. item 2
 
-## Boxes and stuff
+## experience 
 
 > This is a quotation
 
@@ -45,7 +41,7 @@ And a numbered list:
 
 ## Images
 
-![](/images/logo.png "fast.ai's logo")
+![](/images/after-mount-eerie.jpg "this image is 1.7mb?!")
 
 ## Code
 
@@ -54,20 +50,14 @@ General preformatted text:
     # Do a thing
     do_thing()
 
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
 
 ## Tables
 
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
+| Column 1 | Column 2 | Column 3 |
+|-|-|-|
+| PhD | Visual Arts | 2012
+| PhD | Visual Arts | 2012
+
 
 ## Footnotes
 
