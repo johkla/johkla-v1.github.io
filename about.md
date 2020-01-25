@@ -13,15 +13,24 @@ about text
 
 ## and now ...
 
-i am seriously thinking about not saying i am a therapist anymore.
+i am seriously thinking about not saying 'i am a therapist' anymore.
+
+## writing
 
 ## cv
 
 ### qualifications 
 
+|   |   |   |   |
+|-|-|-|-|
+| MA Theology and Religious Studies | Spiritual Care | | Vrije Universiteit Amsterdam | 2016
+| PhD | Visual Arts | | Charles Sturt University | 2012
+| Grad Cert | Narrative Therapy | La Trobe University | 2013
+
+
 - phd
 - ma
-- grad cert
+- 
 - CPE certificates : basic, advanced, post-advanced.
 
 member of ...
@@ -29,37 +38,26 @@ member of ...
 1. item 1
 1. item 2
 
-## experience 
+### experience 
 
 > This is a quotation
 
-{% include alert.html text="You can include alert boxes" %}
+{% include alert.html text="don't be an idiot!" %}
 
 ...and...
 
 {% include info.html text="You can include info boxes" %}
 
-## Images
+## look an image!
 
 ![](/images/after-mount-eerie.jpg "this image is 1.7mb?!")
 
-## Code
+## preformatted text
 
-General preformatted text:
+    # something
+    something_else()
 
-    # Do a thing
-    do_thing()
+#### footnotes
 
-
-## Tables
-
-| Column 1 | Column 2 | Column 3 |
-|-|-|-|
-| PhD | Visual Arts | 2012
-| PhD | Visual Arts | 2012
-
-
-## Footnotes
-
-[^1]: This is the footnote.
+[^1]: and this is a footnote.
 
