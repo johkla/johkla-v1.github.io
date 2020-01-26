@@ -1,5 +1,6 @@
 ---
-exclude: true
+layout: page
+permalink: /about/github/
 ---
 
 # github pages
@@ -9,7 +10,6 @@ being a bear of little brain i've had one miserable attempt at using github page
 and lo...
 
 one major omission in the guide is the fact that the changes you make to your files are not necessarily immediately reflected in your site. this is serious drawback of using gihub pages but is it possible that you could get used to it?
-
 
 ----------------------
 
