@@ -1,3 +1,7 @@
+---
+exclude: true
+---
+
 # github pages
 
 being a bear of little brain i've had one miserable attempt at using github pages/jekyll some years ago but when i came across this little guide ... i decided to have another go
